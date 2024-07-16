@@ -3,7 +3,7 @@ title: "植物大战僵尸杂交版v2.2"
 description: "植物大战僵尸杂交版v2.2"
 pubDate: "2024-07-15"
 hero: "/images/banner1.jpg"
-tags: ["astro"]
+tags: ["游戏"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
