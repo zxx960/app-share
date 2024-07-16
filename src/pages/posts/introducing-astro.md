@@ -1,8 +1,8 @@
 ---
 title: "植物大战僵尸杂交版v2.2"
-description: "We're excited to announce Astro as a new way to build static websites and deliver lightning-fast performance without sacrificing a modern developer experience."
-pubDate: "2021-06-08"
-hero: "/images/image.jpg"
+description: "植物大战僵尸杂交版v2.2"
+pubDate: "2024-07-15"
+hero: "/images/banner1.jpg"
 tags: ["astro"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
@@ -18,19 +18,19 @@ v2.2
 
 [星星兑换]
 
-2个新道具，
+2个新道具
 
-5个新植物，
+5个新植物
 
-5个新僵尸。
+5个新僵尸
 
 ### 应用预览
 
-![https://pic.imgdb.cn/item/66916c41d9c307b7e92da68c.jpg](https://pic.imgdb.cn/item/66916c41d9c307b7e92da68c.jpg)
+![/images/image.jpg](/images/image.jpg)
 
-![https://pic.imgdb.cn/item/66916c40d9c307b7e92da649.jpg](https://pic.imgdb.cn/item/66916c40d9c307b7e92da649.jpg)
+![/images/image2.jpg](/images/image2.jpg)
 
-![https://pic.imgdb.cn/item/66916c41d9c307b7e92da65e.jpg](https://pic.imgdb.cn/item/66916c41d9c307b7e92da65e.jpg)
+![/images/image3.jpg](/images/image3.jpg)
 
 ### 下载链接
 
