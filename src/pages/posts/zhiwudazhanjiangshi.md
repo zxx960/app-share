@@ -2,7 +2,7 @@
 title: "植物大战僵尸杂交版v2.2"
 description: "植物大战僵尸杂交版v2.2"
 pubDate: "2024-07-15"
-hero: "/images/banner1.jpg"
+hero: "/images/banner1.webp"
 tags: ["游戏"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
@@ -26,11 +26,11 @@ v2.2
 
 ### 应用预览
 
-![/images/image.jpg](/images/image.jpg)
+![/images/image.webp](/images/image.webp)
 
-![/images/image2.jpg](/images/image2.jpg)
+![/images/image2.webp](/images/image2.webp)
 
-![/images/image3.jpg](/images/image3.jpg)
+![/images/image3.webp](/images/image3.webp)
 
 ### 下载链接
 
