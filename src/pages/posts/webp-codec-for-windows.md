@@ -20,7 +20,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 系统要求：Windows XP / Vista / 7 / 8 / 10
 
 下载链接
-[https://file.zhuxiuxiang.com/WebpCodecSetup.exe](https://file.zhuxiuxiang.com/WebpCodecSetup.exe)
+[https://baoku2.zhuxiuxiang.com/WebpCodecSetup.exe](https://baoku2.zhuxiuxiang.com/WebpCodecSetup.exe)
 
 ### 安装应用
 
