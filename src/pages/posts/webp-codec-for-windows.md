@@ -11,7 +11,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 ### WebP Codec for Windows
 
-软件名称：WebP Codec for Windows(Windows WebP编解码组件)
+名称：WebP Codec for Windows(Windows WebP编解码组件)
 
 最新版本：0.19.9 (29 Jan 2020)
 

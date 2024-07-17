@@ -11,7 +11,7 @@ interface MarkdownFrontmatter {
 
 const title = '猪猪小宝库';
 const description = '不用关注公众号就能下载，投稿邮箱zxx960@qq.com';
-const seoDescription = '软件分享';
+const seoDescription = '';
 
 const allPosts = await Astro.glob<MarkdownFrontmatter>('./posts/*.md');
 const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf());
