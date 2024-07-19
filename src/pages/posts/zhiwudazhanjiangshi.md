@@ -34,4 +34,4 @@ v2.2
 
 ### 下载链接
 
-[https://baoku2.zhuxiuxiang.com/植物大战僵尸杂交版v2.2.zip](https://baoku2.zhuxiuxiang.com/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E6%9D%82%E4%BA%A4%E7%89%88v2.2.zip)
+[https://file.xiaobaoku.cc/植物大战僵尸杂交版v2.2.zip](https://file.xiaobaoku.cc/植物大战僵尸杂交版v2.2.zip)

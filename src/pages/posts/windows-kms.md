@@ -15,7 +15,7 @@ HEU KMS Activator 自 20 版本以来更新采用了全新的 UI 设计。告别
 
 ### 下载链接
 
-[https://baoku2.zhuxiuxiang.com/HEU_KMS_Activator_v42.0.4.7z](https://baoku2.zhuxiuxiang.com/HEU_KMS_Activator_v42.0.4.7z)
+[https://file.xiaobaoku.cc/HEU_KMS_Activator_v42.0.4.7z](https://file.xiaobaoku.cc/HEU_KMS_Activator_v42.0.4.7z)
 
 ![/images/202303011014815.webp](/images/202303011014815.webp)
 
