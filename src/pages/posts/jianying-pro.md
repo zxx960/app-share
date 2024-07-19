@@ -1,6 +1,6 @@
 ---
-title: "剪映6.01 VIP版"
-description: "剪映6.01 VIP版"
+title: "剪映6.01VIP集成版"
+description: "剪映6.01VIP集成版"
 pubDate: "2024-07-19"
 hero: "/images/xtdowner.com_66196.jpg"
 tags: ["软件"]
