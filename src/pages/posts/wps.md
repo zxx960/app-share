@@ -1,5 +1,5 @@
 ---
-title: "WPS纯净版、无联网、清爽好用"
+title: "WPS纯净版、无联网"
 description: "WPS软件：纯净版、无联网、清爽好用"
 pubDate: "2024-07-22"
 hero: "/images/wpss.png"
