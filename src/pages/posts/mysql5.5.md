@@ -12,7 +12,7 @@ MySQL 是一个关系型数据库管理系统，由瑞典 MySQL AB 公司开发�
 <!-- ### 应用预览 -->
 
 <div style="display: flex;justify-content: center;">
-    <img src='/images/20220509120039.webp' width='70%'   />
+    <img src='/images/20220509120039.webp' width='70%' />
 </div>
 
 ### 下载链接
