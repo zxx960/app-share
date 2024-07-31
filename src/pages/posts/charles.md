@@ -15,4 +15,4 @@ Charles是一款强大的HTTP代理/HTTP监视器/反向代理工具，广泛用
 
 ### 下载链接
 
-[点击下载](https://file.xiaobaoku.cc/mysql-5.5.49-winx64.msi)
+[点击下载](https://file.xiaobaoku.cc/Charles_v4.2.5.rar)
