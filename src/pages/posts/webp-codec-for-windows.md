@@ -19,8 +19,6 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 系统要求：Windows XP / Vista / 7 / 8 / 10
 
-下载链接
-[https://file.xiaobaoku.cc/WebpCodecSetup.exe](https://file.xiaobaoku.cc/WebpCodecSetup.exe)
 
 ### 安装应用
 
@@ -35,6 +33,9 @@ layout: "../../layouts/BlogPostLayout.astro"
 ![/images/WebPCodec5.png](/images/WebPCodec5.png)
 
 ![/images/WebPCodec6.png](/images/WebPCodec6.png)
+
+### 下载链接
+[点击下载](https://file.xiaobaoku.cc/WebpCodecSetup.exe)
 
 
 

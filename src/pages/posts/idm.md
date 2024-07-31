@@ -13,10 +13,6 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 2.关闭IDM,点击“绿化&卸载.exe”，输入1，然后两次回车，完成破解。
 
-### 下载IDM
-
-[点击下载](https://file.xiaobaoku.cc/IDM%206.28.rar)
-
 ### 安装
 
 ![/images/WebPCodec.png](/images/idm.png)
@@ -24,6 +20,10 @@ layout: "../../layouts/BlogPostLayout.astro"
 ### 绿化
 
 ![/images/WebPCodec.png](/images/idm2.png)
+
+### 下载地址
+
+[点击下载](https://file.xiaobaoku.cc/IDM%206.28.rar)
 
 
  

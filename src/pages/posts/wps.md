@@ -17,10 +17,9 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 - 资源占用少：更少的内存和CPU占用，适合老旧设备。
 
-### 下载和安装纯净版WPS
+ 
 
-下载链接
-[点击下载](https://file.xiaobaoku.cc/WPS%20Office%20%E7%BA%AF%E5%87%80%E7%89%88(%E6%97%A0%E8%81%94%E7%BD%91).exe)
+
 
 ### 应用预览
 
@@ -35,6 +34,9 @@ excel
 ppt
 
 ![/images/WebPCodec.png](/images/ppt.jpg)
+
+### 下载链接
+[点击下载](https://file.xiaobaoku.cc/WPS%20Office%20%E7%BA%AF%E5%87%80%E7%89%88(%E6%97%A0%E8%81%94%E7%BD%91).exe)
 
 
  

@@ -18,6 +18,14 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 3.安全可靠：无病毒无捆绑，使用更放心。
 
+### 应用预览
+
+![/images/image.webp](/images/jianying1.png)
+
+![/images/image2.webp](/images/jianying2.png)
+
+![/images/image3.webp](/images/jianying3.png)
+
 ### 下载链接及使用方法：
 
 下载链接：[点击下载](https://file.xiaobaoku.cc/剪映6.01绿色精简免安装VIP集成版.rar)
@@ -27,12 +35,4 @@ layout: "../../layouts/BlogPostLayout.astro"
 2.下载完成后，解压缩文件。
 
 3.双击运行，无需安装即可使用所有VIP功能。
-
-### 应用预览
-
-![/images/image.webp](/images/jianying1.png)
-
-![/images/image2.webp](/images/jianying2.png)
-
-![/images/image3.webp](/images/jianying3.png)
 

@@ -13,10 +13,6 @@ HEU KMS Activator 自 20 版本以来更新采用了全新的 UI 设计。告别
 
 高级功能的按钮以“灰色”图标显示，建议详细阅读《用户使用手册》后再行使用。
 
-### 下载链接
-
-[https://file.xiaobaoku.cc/HEU_KMS_Activator_v42.0.4.7z](https://file.xiaobaoku.cc/HEU_KMS_Activator_v42.0.4.7z)
-
 ![/images/202303011014815.webp](/images/202303011014815.webp)
 
 ### Office 出现"盗版软件的受害者…"弹窗的处理方法
@@ -56,3 +52,7 @@ HEU KMS Activator 自 20 版本以来更新采用了全新的 UI 设计。告别
 点击主页橘黄色按钮即可智能激活 Windows 和 Office
 
 注：自 v21.0.0 版本开始，为了提高激活成功率，激活方案分为两种，默认为方案 1，如果无效可尝试方案 2。可点击界面右上角“设置”→"选项"切换
+
+### 下载链接
+
+[点击下载](https://file.xiaobaoku.cc/HEU_KMS_Activator_v42.0.4.7z)
