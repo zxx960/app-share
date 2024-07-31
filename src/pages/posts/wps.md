@@ -17,10 +17,6 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 - 资源占用少：更少的内存和CPU占用，适合老旧设备。
 
- 
-
-
-
 ### 应用预览
 
 word
