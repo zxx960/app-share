@@ -13,4 +13,4 @@ Typora是一款轻便简洁的Markdown编辑器，支持即时渲染技术，这
 
 ### 下载链接
 
-[点击下载](https://file.xiaobaoku.cc/Typora%E7%AD%891%E4%B8%AA%E6%96%87%E4%BB%B6.rar)
+[点击下载](https://file.xiaobaoku.cc/Typora-v1.9.5-x64-CN.7z)
