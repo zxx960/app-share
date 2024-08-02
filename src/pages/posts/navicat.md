@@ -1,5 +1,5 @@
 ---
-title: "navicat+for+mysql10.0.11简体中文破解版"
+title: "navicat+for+mysql简体中文破解版"
 description: "navicat+for+mysql10.0.11简体中文破解版"
 pubDate: "2024-07-27"
 hero: "/images/navicat.png"
