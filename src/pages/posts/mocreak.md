@@ -1,6 +1,6 @@
 ---
-title: "Mocreak-office安装"
-description: "Mocreak-office安装"
+title: "Mocreak-office一键安装"
+description: "Mocreak-office一键安装"
 pubDate: "2024-08-05"
 hero: "/images/mocreaklogo.png"
 tags: ["软件"]
