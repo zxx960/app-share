@@ -1,7 +1,7 @@
 ---
 title: "AutoCAD 2025破解版"
 description: "AutoCAD 2025破解版"
-pubDate: "2024-08-22"
+pubDate: "2024-08-21"
 hero: "/images/cad.png"
 tags: ["软件"]
 layout: "../../layouts/BlogPostLayout.astro"
