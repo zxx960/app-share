@@ -1,15 +1,15 @@
 ---
-title: "黑神话 悟空 风灵月影 35项修改器 1.0"
-description: "黑神话 悟空 风灵月影 35项修改器 1.0"
+title: "黑神话:悟空"
+description: "黑神话:悟空"
 pubDate: "2024-08-22"
 hero: "/images/heishenhua.png"
-tags: ["软件"]
+tags: ["游戏"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-![/images/charles.jpg](/images/fenglingyueying.png)
+![/images/charles.jpg](/images/hq720.jpg)
 
-### 风灵月影-专属修改器  
+### 黑神话:悟空
 
 《黑神话：悟空》是一款以中国神话为背景的动作角色扮演单机游戏，它的故事取材于中国古典小说 “四大名著” 之一的《西游记》。
 
@@ -23,4 +23,4 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 ### 下载链接
 
-[点击下载](https://file.xiaobaoku.cc/HEIWUKON.rar)
+[https://pan.quark.cn/s/00aef019d2bb](https://pan.quark.cn/s/00aef019d2bb)
