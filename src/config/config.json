@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "netflix-share",
+    "base_url": "https://www.xiaobaoku.cc",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/netflix-share.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Bookworm Light"
+  },
+
+  "settings": {
+    "pagination": 12,
+    "summary_length": 30
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "分享netflix剧集, 电影, 纪录片, 动漫, 综艺等资源"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+  },
+
+  "contactinfo": {
+    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
+    "email": "zxx960@qq.com",
+    "phone": "+800 567 1234"
+  }
+}

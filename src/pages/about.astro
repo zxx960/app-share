@@ -1,0 +1,29 @@
+---
+import { Image } from "astro:assets";
+import Base from "@/layouts/Base.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+import { getEntryBySlug } from "astro:content";
+
+const entry = await getEntryBySlug("about", "index");
+const { Content } = await entry.render();
+const { title, description, meta_title, image, what_i_do } = entry.data;
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+  <section class="section">
+    <div class="container">
+      <div class="row md:gx-4">
+        <div class="sm:col-7 md:col-8">
+          <h1 class="h3 mb-8">
+            本网站资源收集自互粮网，如有侵权请联系删除zxx960@qq.com
+          </h1>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>
